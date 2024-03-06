@@ -18,6 +18,7 @@ body {
     height: auto;
     width: 650px;
     position: absolute;
+    left: 20px;
     transform: translate(-50%, -50%);
     left: 50%;
     right: 50%;
