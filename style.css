@@ -28,14 +28,14 @@ body {
     background-color: #fbb03b;
     width: 200px;
     height: 100%;
-    float: left;
+    float: right;
     top: 0;
 
 }
 
 .right {
     width: 400px;
-    float: left;
+    float: right;
     top: 0;
 }
 
